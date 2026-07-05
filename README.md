@@ -1,5 +1,5 @@
 #AI-CODE-REVIEWER
-AI-powdered code review tool using GROQ
+AI-powered code review tool using GROQ
 
 #FEATURES
 -Instant AI code feedback
